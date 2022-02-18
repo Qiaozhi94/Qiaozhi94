@@ -14,5 +14,3 @@ You can click the Preview link to take a look at your changes.
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qiaozhi94)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qiaozhi94&repo=github-readme-stats)](https://github.com/qiaozhi94/github-readme-stats)
