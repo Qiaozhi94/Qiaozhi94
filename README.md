@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ![qiaozhi94's Github stats](https://github-readme-stats.vercel.app/api?username=qiaozhi94&show_icons=true)
 
-![qiaozhi94's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=qiaozhi94&show_icons=true&count_private=true&theme=gotham)
+![qiaozhi94's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=qiaozhi94&show_icons=true&count_private=true&layout=compact&hide_border=true&langs_count=10)
