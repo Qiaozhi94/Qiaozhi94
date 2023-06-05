@@ -1,5 +1,4 @@
 - Hi! I’m GeorgeL.
-- Former Architect / Current Product Manager（toB）
 - Arduino & STM32 Lover
 - I’m currently learning in the Deep Learning and Computer Graphics areas.
 - You can reach on me through Qiaozhi_li@126.com
